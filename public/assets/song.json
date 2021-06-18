@@ -1,0 +1,46 @@
+{
+    "artist": "Linkin Park",
+    "title": "Castle of Glass",
+    "lyrics": [
+        {
+            "text": "Take me down to the river bend,",
+            "status": null,
+            "state": "pending"
+        },
+        {
+            "text": "Take me down to the fighting end.",
+            "status": null,
+            "state": "pending"
+        },
+        {
+            "text": "Wash the poison from off my skin,",
+            "status": null,
+            "state": "pending"
+        },
+        {
+            "text": "Show me how to be whole again.",
+            "status": null,
+            "state": "pending"
+        },
+        {
+            "text": "Fly me up on a silver wing",
+            "status": null,
+            "state": "pending"
+        },
+        {
+            "text": "Past the black where the sirens sing.",
+            "status": null,
+            "state": "pending"
+        },
+        {
+            "text": "Warm me up in the novice glow",
+            "status": null,
+            "state": "pending"
+        },
+        {
+            "text": "And drop me down to the dream below.",
+            "status": null,
+            "state": "pending"
+        }
+    ]
+}
